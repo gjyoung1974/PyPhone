@@ -18,14 +18,14 @@ You must have gone through the [Adafruit PiTFT setup instructions](http://learn.
 
 **Get repo:**
     
-    git clone https://github.com/gjyoung1974/PiPhone.git
+    git clone git@github.com:gjyoung1974/PyPhone.git 
     
     
 **Usage:**
 
-    cd PiPhone
+    cd PyPhone
 
-    sudo python piphone.py
+    `$ python piphone.py`
 
 
 Full details at: [Dave's Blog](http://www.davidhunt.ie/piphone-a-raspberry-pi-based-smartphone/)
