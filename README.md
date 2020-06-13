@@ -14,6 +14,8 @@ Enjoy!
 
 You must have gone through the [Adafruit PiTFT setup instructions](http://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi).
 
+![img_0872d.jpg](./icons/img_0872d.jpg)
+
 **Get repo:**
     
     git clone https://github.com/gjyoung1974/PiPhone.git
