@@ -60,7 +60,7 @@ grafeas==0.4.0
 greenlet==0.4.15
 grpcio==1.29.0
 hidapi==0.7.99.post21
-httplib2==0.17.2
+httplib2>=0.18.0
 humanize==0.5.1
 hypothesis==4.23.8
 idna==2.7
