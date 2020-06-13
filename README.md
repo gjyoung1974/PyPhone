@@ -14,6 +14,9 @@ Enjoy!
 
 You must have gone through the [Adafruit PiTFT setup instructions](http://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi).
 
+** Use something like a SIM 7600 **
+[Compatible SIM Module](https://www.amazon.com/4G-HAT-SIM7600A-H-Communication-Positioning/dp/B07PLTP3M6/ref=sr_1_5?dchild=1&keywords=sim7600&qid=1592080561&sr=8-5)
+
 ![img_0872d.jpg](./icons/img_0872d.jpg)
 
 **Get repo:**
